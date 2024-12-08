@@ -45,7 +45,8 @@ INSTALLED_APPS = [
     'rest_framework',
     'corsheaders',
     #local aps
-    'listings',
+    'alx_travel_app.listings',
+    'drf_yasg',
     
 ]
 
